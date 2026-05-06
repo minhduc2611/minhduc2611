@@ -19,7 +19,9 @@
 -->
 ## Projects
 
-- 🌏 **[Langpolify.com](https://langpolify.com/)** - a super app for language learners
+- 🌏 **[Langpolify.com](https://langpolify.com/)** - an AI powered super app for language learners.
+- 🤖 Under 3s response RAG AI Agent that has consistent behavior and tools.
+- 🤖 Claude agents with skills working with each other.
 
 ## GitHub Activity
 
@@ -28,7 +30,7 @@
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make life a bit better for everyone
-- **Creating AI workflows** 
+- **Creating AI agents and workflows** 
 - **Rapid prototyping** - Full apps in days, not months
 - **Sharing knowledge**
 
