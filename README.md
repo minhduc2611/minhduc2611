@@ -25,10 +25,6 @@
 - 🤖 **[Interfused.app](https://interfused.app/)** - AI agents with skills working with each other. [on-going]
 - 🎨 Blockchain [Vue Design System](https://vue-design-system.netlify.app/?path=/story/atom-commonthemeswitch--primary&globals=theme:dark)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/minhduc2611)
-
 ## What I'm Doing
 
 - **Living in the future** - Learning and building tools to make life a bit better for everyone
