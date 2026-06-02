@@ -20,9 +20,10 @@
 ## Projects
 
 - 🌏 **[Langpolify.com](https://langpolify.com/)** - an AI powered super app for language learners.
-- 🤖 Under 3s response RAG AI Agent that has consistent behavior and tools.
-- 🤖 Claude agents with skills working with each other.
-- Design System [samples](https://vue-design-system.netlify.app/?path=/story/atom-commonthemeswitch--primary&globals=theme:dark)
+- 🤖 Under 3s response RAG AI Agent that has consistent behavior and tools. [on-going]
+- 🚪 LLM proxy. [on-going]
+- 🤖 Claude agents with skills working with each other. [on-going]
+- 🎨 Blockchain [Vue Design System](https://vue-design-system.netlify.app/?path=/story/atom-commonthemeswitch--primary&globals=theme:dark)
 
 ## GitHub Activity
 
