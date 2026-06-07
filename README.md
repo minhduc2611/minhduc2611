@@ -24,6 +24,7 @@
 - 🚪 Rust reverse proxy for public LLM. [on-going]
 - 🤖 **[Interfused.app](https://interfused.app/)** - AI agents with skills working with each other. [on-going]
 - 🎨 Blockchain [Vue Design System](https://vue-design-system.netlify.app/?path=/story/atom-commonthemeswitch--primary&globals=theme:dark)
+- 🎬 Proof of concept [event bus video editor app](event-bus-editor.netlify.app/)
 
 ## What I'm Doing
 
