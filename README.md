@@ -18,6 +18,7 @@
 
 - 🌏 **[Langpolify.com](https://langpolify.com/)** - an AI powered super app for language learners.
 - 🤖 **[Interfused.app](https://interfused.app/)** - AI agents with skills working with each other.
+- ⏰ **[Viechieuqua.com](https://viechieuqua.com/)** - PSA software for service based companies.
 - 🤖 Under 3s response RAG AI Agent that has consistent behavior and tools.
 - 🚪 Rust reverse proxy for public LLM. [on-going]
 - 🎨 Blockchain [Vue Design System](https://vue-design-system.netlify.app/?path=/story/atom-commonthemeswitch--primary&globals=theme:dark)
